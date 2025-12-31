@@ -1,0 +1,24 @@
+# Maven / Gradle
+/target/
+/build/
+
+# IDEs
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# H2 database (optional)
+*.mv.db
+*.trace.db
+
+# Env files
+.env
